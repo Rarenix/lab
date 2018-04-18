@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524059589 source:c:\users\alumno\desktop\clase 8\verificar numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
